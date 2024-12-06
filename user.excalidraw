@@ -101,16 +101,106 @@
         "type": 3
       },
       "seed": 1874967349,
-      "version": 84,
-      "versionNonce": 446605333,
+      "version": 85,
+      "versionNonce": 149183227,
       "isDeleted": false,
       "boundElements": [
         {
           "id": "BzQ0kQ3JgXSM0tTLWJwYR",
           "type": "arrow"
+        },
+        {
+          "id": "cE83IJRu4-ox-1di4ezJS",
+          "type": "arrow"
         }
       ],
-      "updated": 1733498008497,
+      "updated": 1733498224353,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "cE83IJRu4-ox-1di4ezJS",
+      "type": "arrow",
+      "x": 886.8141391699187,
+      "y": 367.4571567453345,
+      "width": 6.332883274455753,
+      "height": 140.63143877041443,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1819858005,
+      "version": 46,
+      "versionNonce": 1356120699,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1733498231547,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          6.332883274455753,
+          140.63143877041443
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "6EISuT0cAHFUsaky1-pfC",
+        "focus": 0.09101876002688952,
+        "gap": 5.578250495334487
+      },
+      "endBinding": {
+        "elementId": "HTepJBji6pIFPi3QK2TLL",
+        "focus": -0.03263310743673807,
+        "gap": 1.275885541947055
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "HTepJBji6pIFPi3QK2TLL",
+      "type": "ellipse",
+      "x": 797.331090360109,
+      "y": 509.2486376856492,
+      "width": 204.0608874174635,
+      "height": 125.75212236669313,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 188040091,
+      "version": 75,
+      "versionNonce": 1470937883,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "cE83IJRu4-ox-1di4ezJS",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1733498231547,
       "link": null,
       "locked": false
     }
